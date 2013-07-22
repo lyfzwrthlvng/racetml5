@@ -1,0 +1,8 @@
+
+#car {position:absolute;width:45px;height:20px;background:url('images/carf.png');z-index:1}
+#msg {position:fixed;left:0%;top:0%;background-color:#111111;color:#eeeeee;box-shadow:0 0 5px #445566}
+#dashBoard {position:fixed;top:30%;right:38%;background-color:#111111;color:#eeeeee;box-shadow:0 0 5px #ffffff;width:120px;height:120px;border-radius:60px }
+#meter {position:fixed;color:white;right:41.8%;top:32%;font-size:80px}
+#hideM {position:fixed;background-color:#111111;right:40%;top:39%;width:60px;height:40px;text-align:center;color:white}
+#timer {position:fixed;background-color:#111111;right:0%;}
+
